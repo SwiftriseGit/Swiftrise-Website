@@ -136,7 +136,7 @@ export default function Footer() {
                   <path d="M12 21s7-4.35 7-10a7 7 0 10-14 0c0 5.65 7 10 7 10z" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
                   <circle cx="12" cy="11" r="2.5" stroke="currentColor" strokeWidth="1.8" />
                 </svg>
-                <span>33/11, Star House, Lane-4, Bhagabat Sandhan Colony, Rasulgarh, Bhubaneswar, Odisha - 751010</span>
+                <span>P.R.Peta ,Adarsh Nagra -6th line  , Jeypore,Koraput,Odisha , 764003</span>
               </p>
               <p className="flex items-center gap-2.5">
                 <svg viewBox="0 0 24 24" fill="none" className="size-6 shrink-0 text-white/70" aria-hidden="true">
