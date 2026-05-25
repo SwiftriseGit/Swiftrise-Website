@@ -12,7 +12,7 @@ type ChatMessage = {
 const initialBotMessage: ChatMessage = {
   id: 1,
   sender: "bot",
-  text: "Hi, I am Tech Assistant. Ask about services, pricing, timeline, or contact details.",
+  text: "Hi, I am Tech Assistant. How can I help you?",
 };
 
 type ChatbotProps = {
